@@ -119,7 +119,7 @@ export default function Contact() {
                   </div>
                   <div className="flex flex-col">
                     <span className="text-xs text-slate-500 font-bold uppercase">Email Me</span>
-                    <span className="text-sm font-semibold">dhairyagulati.design@gmail.com</span>
+                    <span className="text-sm font-semibold">dgulati352@gmail.com</span>
                   </div>
                 </a>
 
