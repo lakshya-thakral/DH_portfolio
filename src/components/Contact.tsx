@@ -111,7 +111,7 @@ export default function Contact() {
               {/* Direct Info */}
               <div className="flex flex-col gap-5">
                 <a 
-                  href="mailto:dhairyagulati.design@gmail.com" 
+                  href="mailto:dgulati352@gmail.com" 
                   className="flex items-center gap-4 group text-slate-300 hover:text-white transition-colors"
                 >
                   <div className="p-3 rounded-xl bg-blue-500/10 border border-blue-500/20 text-blue-400 group-hover:scale-105 transition-transform">
